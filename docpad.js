@@ -7,21 +7,21 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
+      name: "RESSACS-14",
       description: "Conference description",
-      date: "November 15",
+      date: "3-4 Juin, 2014",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      //price: "$100",
+      venue: "IRD",
+      address: "32 avenue Henri Varagnat",
+      city: "Bondy",
+      state: "France"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Register now!",
+        text: "S'inscrire!",
         link: "http://eventick.com.br"
     },
 
@@ -64,7 +64,7 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Check-in / Breakfast",
+        name: "Accueil / Breakfast",
         time: "9h00"
       },
       {
@@ -170,9 +170,9 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "Eventick",
+        name: "IRD",
         logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
+        url: "http://www.ird.fr/"
       }
     ],
 
