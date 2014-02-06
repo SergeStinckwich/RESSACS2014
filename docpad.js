@@ -7,8 +7,8 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "RESSACS-14",
-      description: "Conference description",
+      name: "RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS'14)",
+      description: "RESeaux de capteurS et Applications Critiques de Surveillance (RESSACS)",
       date: "3-4 Juin, 2014",
       // If your event is free, just comment this line
       //price: "$100",
