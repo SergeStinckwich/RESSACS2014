@@ -22,13 +22,13 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "S'inscrire!",
-        link: "http://eventick.com.br"
+        link: "http://"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
-    },
+    //forkButton: {
+    //    repository: "https://github.com/braziljs/conf-boilerplate"
+    //},
 
     // Site info
     site: {
@@ -55,7 +55,7 @@ module.exports = {
       about: "About",
       location: "Location",
       speakers: "Speakers",
-      schedule: "Schedule",
+      schedule: "Programme",
       sponsors: "Sponsors",
       partners: "Partners",
       contact: "Contact"
