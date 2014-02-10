@@ -1,7 +1,7 @@
 <h2 class="section-title"><%= @labels['location'] %></h2>
 
 
-<p>Les journées se dérouleront à l'IRD, centre nord à Bondy du 3 au 4 juin 2014.</p>
+<p>Les journées se dérouleront à l'IRD (Institut de Recherche pour le Développement), centre nord à Bondy du 3 au 4 juin 2014 au sein de l'équipe de recherche UMMISCO.</p>
 
 <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
   <span itemprop="streetAddress"><%= @conf.address %>. </span>
