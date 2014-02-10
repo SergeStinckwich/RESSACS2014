@@ -71,10 +71,10 @@ module.exports = {
         name: "François Beauducel",
         photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
+        company: "Institut de physique du globe de Paris",
         link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
+          href: "http://www.ipgp.fr/~beaudu/",
+          text: "François Beauducel home page"
         },
         presentation: {
           title: "Le système d’information WEBOBS: un ensemble d’outils intégrés de gestion pour les observatoires telluriques",
