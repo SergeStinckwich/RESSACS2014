@@ -32,7 +32,7 @@ module.exports = {
 
     // Site info
     site: {
-      theme: "yellow-swan",
+      theme: "ird",
       url: "http://braziljs.github.io/conf-boilerplate/",
       googleanalytics: "UA-33656081-1"
     },
@@ -52,12 +52,12 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
+      about: "Objectifs",
+      location: "Lieu",
+      speakers: "Conférenciers",
       schedule: "Programme",
       sponsors: "Sponsors",
-      partners: "Partners",
+//      partners: "Partners",
       contact: "Contact"
     },
 
@@ -171,19 +171,19 @@ module.exports = {
     sponsors: [
       {
         name: "IRD",
-        logo: "themes/yellow-swan/img/sponsor.png",
+        logo: "themes/ird/img/logo-ird.png",
         url: "http://www.ird.fr/"
       }
     ],
 
     // List of Partners
-    partners: [
-      {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
-      }
-    ],
+//    partners: [
+//      {
+//        name: "BrazilJS",
+//        logo: "themes/yellow-swan/img/partner.png",
+//        url: "http://braziljs.org"
+//      }
+//    ],
 
     // Theme path
     getTheme: function() {
