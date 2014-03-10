@@ -79,22 +79,22 @@ module.exports = {
         presentation: {
           title: "Le système d’information WEBOBS: un ensemble d’outils intégrés de gestion pour les observatoires telluriques",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "10h00"
+          time: "9h30"
         }
       },
       {
-        name: "Bill Gates",
+        name: "Emile Faye",
         photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Microsoft",
+        company: "Biodiversité et évolution des complexes plantes-insectes ravageurs-antagonistes, IRD",
         link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
+          href: "http://emilefaye.com/",
+          text: ""
         },
         presentation: {
-          title: "Introducing Windows 12",
+          title: "High resolution U.A.V. thermal imagery for the study of pest dynamics in the tropical Andes",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "11h00"
+          time: "10h30"
         }
       },
       {
