@@ -77,7 +77,7 @@ module.exports = {
           text: "François Beauducel home page"
         },
         presentation: {
-          title: "Le système d’information WEBOBS: un ensemble d’outils intégrés de gestion pour les observatoires telluriques",
+          title: "Le SI WEBOBS: un ensemble d’outils intégrés de gestion pour les observatoires telluriques",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
           time: "9h30"
         }
