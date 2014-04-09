@@ -1,6 +1,5 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+<p><b>Le programme des journées RESSACS 2014 est en cours de constitution. Si vous souhaitez présenter vos travaux concernant la surveillance environnementale, merci de prendre contact avec Serge DOT Stinckwich AT ird DOT fr.</b></p>
 <div class="schedule-tbl">
   <table>
     <thead>

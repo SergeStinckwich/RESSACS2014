@@ -1,5 +1,14 @@
-<h2 class="section-title"><%= @labels['speakers'] %></h2>
+<h2 class="section-title">Comité d'organisation</h2>
+<ul>
+<li><p>Bernard Pottier, LabSTICC, <a href="http://www.univ-brest.fr/">Université de Bretagne Occidentale (UBO)</a>, France</p></li>
+<li><p>Christophe Cambier, <a href="http://www.ummisco.ird.fr/">UMI UMMISCO</a>, <a href="http://www.ird.fr">IRD</a>/<a href="http://upmc.fr/">UPMC</a>, France</p></li>
+<li><p>Nicolas Marilleau, <a href="http://www.ummisco.ird.fr/">UMI UMMISCO</a>, <a href="http://www.ird.fr">IRD</a>/<a href="http://upmc.fr/">UPMC</a>, France</p></li>
+<li><p><a href="http://web.univ-pau.fr/~cpham/">Congduc Pham</a>, LIUPPA/T2I, <a href="http://www.univ-pau.fr/">Université de Pau et des Pays de l’Adour (UPPA)</a>, France</p></li>
+<li><p><a href="http://www.doesnotunderstand.org/">Serge Stinckwich</a>, <a href="http://www.ummisco.ird.fr/">UMI UMMISCO</a>, <a href="http://www.ird.fr">IRD</a>/<a href="http://upmc.fr/">UPMC</a>, France</p></li>
+</ul>
 
+<h2 class="section-title"><%= @labels['speakers'] %></h2>
+<p>Le programme des journées RESSACS 2014 est en cours de constitution. Si vous souhaitez présenter vos travaux concernant la surveillance environnementale, merci de prendre contact avec Serge DOT Stinckwich AT ird DOT fr.</p>
 <ul class="speakers-list">
 <% for speaker in @schedule: %>
   <% if speaker.presentation: %>
