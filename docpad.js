@@ -80,7 +80,7 @@ module.exports = {
       {
         name: "Emile Faye",
         photo: "themes/ird/img/emile-faye.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        bio: "Emile Faye est doctorant en agro-écologie thermique au laboratoire Biodiversité et évolution des complexes plantes-insectes ravageurs-antagonistes de l’Institut de Recherche pour le Développement (IRD). Ses travaux de thèse s’articulent autour de la relation entre les paysages thermiques et la dynamique de ravageurs des cultures dans les Andes tropicales. Il étudie les microclimats rencontrés par les ravageurs des cultures au moyen de caméras infrarouges et visuelles embarquées sur un hexaptère et de micro-capteurs au sol.",
         company: "Biodiversité et évolution des complexes plantes-insectes ravageurs-antagonistes, IRD",
         link: {
           href: "http://emilefaye.com/",
@@ -88,7 +88,7 @@ module.exports = {
         },
         presentation: {
           title: "High resolution U.A.V. thermal imagery for the study of pest dynamics in the tropical Andes",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          description: "Les drones sont de nouveaux outils très prometteurs pour la recherche. Equipés de tous types de capteurs, volant bas et lentement, ils permettent l’acquisition  rapide, bon marché et répétable de données spatialisées à très hautes résolutions. Cette présentation exposera les travaux effectués dans les Andes équatoriennes pour la caractérisation des patrons spatio-temporels d'hétérogénéité thermique des agrosystèmes à l’échelle de l’insecte ravageur. L’utilisation de caméra thermique embarquée sur un drone combinée à de nombreux capteurs au sol a permis l’obtention d’orthophotos visuelles et infrarouges de hautes résolutions (1,3 cm/px et 5 cm/px respectivement) et la modélisation du microclimat des agrosystèmes (air, plante et sol). Ces données analysées dans des SIG mettent en évidence l’effet significatif du microclimat sur la présence et distribution des insectes ravageurs dans les agro-systèmes andins.",
           time: ""
         }
       },
