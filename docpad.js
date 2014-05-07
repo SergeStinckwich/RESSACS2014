@@ -122,6 +122,51 @@ module.exports = {
           time: ""
           }
         },
+        {
+          name:"Onil Goubier",
+          photo:"themes/ird/img/onil-goubier.jpg",
+          bio:"Diplômée de l'ITB Indonésie et de l'université de Rennes I, Onil a travaillé dans les systèmes parallèles, distribués et temps réel, dans l'industrie et en académique. Elle s'intéresse actuellement aux réseaux des capteurs pour des applications de prévention des catastrophes naturelles, et sur des aspects de diffusion sociétale de capteurs.",
+          company:"Association Takanea / DRR Indonesia Foundation",
+          link:{
+            href:"",
+            text:""
+          },
+          presentation: {
+            title: "Réseaux de capteurs pour la surveillance des inondations à Jakarta",
+            description: "Jakarta est une ville très affectée par des inondations récurrentes, aggravées par les changements climatiques. Les réseaux de capteurs sont une solution prometteuse pour surveiller, alerter, collecter des données et étudier des inondations. Nous présenterons la problématique de Jakarta, l'infrastructure en place et les efforts en réseaux de capteurs.",
+            time:""
+          }
+        },
+        {
+          name:"Sébastien Chipeaux",
+          photo:"themes/ird/img/sebastien-chipeaux.jpg",
+          bio:"J'ai soutenu mon doctorat d'Informatique le 17 Décembre 2013. Mon sujet de thèse était la Génération automatique de systèmes multi-agents à partir de modèle pour la simulation de systèmes complexes géographiques à entités mobiles. Les travaux menés au cours de ce doctorat fournissent un méta-modèle graphique et outil de modélisation adaptés à la création de modèles agents qui représentent la dimension géographique et entités mobiles qui composent les systèmes étudiés : par exemple une ville. La simulation générée automatiquement à partir de ce modèle permet à des scientifiques non-informaticiens d'appréhender l'impact de différents scenarii sur le comportement des entités qui peuplent le système : les habitants de la ville par exemple. J'effectue actuellement un post-doctorat dans le cadre d'un projet européen sur la surveillance de machines industrielles à l'aide de réseaux de capteurs pour la maintenance prédictive.",
+          company:"",
+          link:{
+            href:"",
+            text:""
+          },
+          presentation: {
+            title: "Réseau de capteurs sans fil pour la surveillance de machines industrielles",
+            description: "La thématique réseaux de capteurs est étudiée depuis 10 ans au sein de l'équipe CARTOON du Département d'Informatique des Systèmes Complexes (DISC) du laboratoire FEMTO-ST à l'Université de Franche-Comté. Dans ce cadre nous participons au projet européen MainPreSI dans le cadre de l'INTERREG IV. Nous souhaitons utiliser une technologie innovante basée sur un ensemble capteurs passifs sans fil + interrogateur disant qui alimente, communique et interroge les capteurs disposés sur la machine à surveiller grâce à la technologie RADAR. Plusieurs verrous doivent être levés comme, par exemple, la validité des données reçues par l'interrogateur, la communication entre interrogateur ou encore le traitement des données.",
+            time:""
+          }
+        },
+        {
+          name:"Hiep Xuan Hynh",
+          photo: "themes/ird/img/hiep-xuan-huynh.jpg",
+          bio:"Huỳnh Xuân Hiệp is currently associate professor in the Department of Software Engineering, College of Information and Communication Technology, Can Tho  University. He received the engineer, master and Ph.D. degrees in computer science  from Can Tho University (CTU), l’Institut de la Francophonie pour l’Informatique (IFI)  and Polytechnics School of Nantes University (Polytech’Nantes) in 1996, 1998 and 2006 respectively. His research interests includes knowledge discovery from databases, machine learning, simulation, modeling decisions, bioinformatics, embedded systems and wireless sensor network. He is also the head of the DREAM (Decision-support Research for Environmental Applications and Models) multidisciplinary research team associated with l’Institut de Recherche pour le Développement (IRD).",
+          company:"Can Tho University, Vietnam",
+          link:{
+            href:"",
+            text:""
+          },
+          presentation:{
+            title:"Mekong Delta: measuring and managing risks, a case for wireless sensor networks",
+            description:"",
+            time:""
+          }
+        }
       // {
       //   name: "Steve Jobs",
       //   photo: "themes/yellow-swan/img/speaker.jpg",
