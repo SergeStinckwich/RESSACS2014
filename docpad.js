@@ -64,8 +64,8 @@ module.exports = {
     schedule: [
       {
         name: "François Beauducel",
-        photo: "themes/ird/img/speaker.png",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        photo: "themes/ird/img/francois-beauducel.jpg",
+        bio: "François Beauducel est ingénieur des Arts et Métiers, docteur en géophysique et aujourd'hui professeur à l'Institut de Physique du Globe de Paris. Spécialiste de la déformation des volcans actifs en instrumentation et modélisation numérique (Indonésie, Antilles, Réunion, Italie), il a été 7 ans directeur de l'Observatoire volcanologique et sismologique de Guadeloupe.",
         company: "Institut de physique du globe de Paris",
         link: {
           href: "http://www.ipgp.fr/~beaudu/",
@@ -73,7 +73,7 @@ module.exports = {
         },
         presentation: {
           title: "Le SI WEBOBS: un ensemble d’outils intégrés de gestion pour les observatoires telluriques",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          description: "Les observatoires volcanologiques et sismologiques doivent assurer une double mission de collecte de données pluridisciplinaires à des fins de recherche et une mission de surveillance temps-réel et d'alerte aux autorités. Ces objectifs entrainent la gestion de réseaux de capteurs très variés associés à des données extrêmement hétérogènes (paramètres physico-chimique, échantillonnages manuel/automatique, fréquence et formats d'acquisition, métadonnées ...). Le système WEBOBS, développé depuis 2001 et implanté dans plusieurs observatoires opérationnels, apporte une solution intégrée et effective à ces problématiques.",
           time: ""
         }
       },
@@ -153,7 +153,7 @@ module.exports = {
           }
         },
         {
-          name:"Hiep Xuan Hynh",
+          name:"Hiep Xuan Huynh",
           photo: "themes/ird/img/hiep-xuan-huynh.jpg",
           bio:"Huỳnh Xuân Hiệp is currently associate professor in the Department of Software Engineering, College of Information and Communication Technology, Can Tho  University. He received the engineer, master and Ph.D. degrees in computer science  from Can Tho University (CTU), l’Institut de la Francophonie pour l’Informatique (IFI)  and Polytechnics School of Nantes University (Polytech’Nantes) in 1996, 1998 and 2006 respectively. His research interests includes knowledge discovery from databases, machine learning, simulation, modeling decisions, bioinformatics, embedded systems and wireless sensor network. He is also the head of the DREAM (Decision-support Research for Environmental Applications and Models) multidisciplinary research team associated with l’Institut de Recherche pour le Développement (IRD).",
           company:"Can Tho University, Vietnam",
