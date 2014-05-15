@@ -1,0 +1,27 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'run-script', 'watch' ]
+2 info using npm@1.4.10
+3 info using node@v0.10.28
+4 verbose node symlink /usr/local/bin/node
+5 verbose run-script [ 'prewatch', 'watch', 'postwatch' ]
+6 info prewatch ConfBoilerplate@0.2.0
+7 info watch ConfBoilerplate@0.2.0
+8 verbose unsafe-perm in lifecycle true
+9 info ConfBoilerplate@0.2.0 Failed to exec watch script
+10 error ConfBoilerplate@0.2.0 watch: `node_modules/docpad/bin/docpad run`
+10 error Exit status 1
+11 error Failed at the ConfBoilerplate@0.2.0 watch script.
+11 error This is most likely a problem with the ConfBoilerplate package,
+11 error not with npm itself.
+11 error Tell the author that this fails on your system:
+11 error     node_modules/docpad/bin/docpad run
+11 error You can get their info via:
+11 error     npm owner ls ConfBoilerplate
+11 error There is likely additional logging output above.
+12 error System Darwin 13.1.0
+13 error command "node" "/usr/local/bin/npm" "run-script" "watch"
+14 error cwd /Users/stinckwich/Work/ressacs2014
+15 error node -v v0.10.28
+16 error npm -v 1.4.10
+17 error code ELIFECYCLE
+18 verbose exit [ 1, true ]

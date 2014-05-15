@@ -166,6 +166,21 @@ module.exports = {
             description:"",
             time:""
           }
+        },
+        {
+          name:"Stéphane Louise",
+          photo:"themes/ird/img/stephane-louise.jpg",
+          bio:"Stéphane Louise is working as Research Engineer at CEA-LIST. His current focus is on harvesting the processing power of the emergent embedded manycore platforms through several aspects, and 3 main topics: 1) Programming Languages and compilation, 2) Execution support and execution scheme, and 3) Execution time and architectural constraints. He worked on the MPPA chip architecture and its programming model incollaboration with Kalray, and on the safety critical real-time programming tools OASIS with AREVA-NP. He obtained his PhD from U-Psud in 2002 and is now finalizing his HDR.",
+          company:"CEA-LIST",
+          link:{
+            href:"",
+            text:""
+          },
+          presentation:{
+          title:"A Model of Computation for highly parallel and dynamic system",
+          description:"Todays challenges in real-time systems including sensor networks is that they have massive scale with high parallelism level, and at the same time they can be highly dynamic, with parts that are intermittently connected to a core system. For fixed (non dynamic) systems, dataflow paradigms works reasonably well, especially for signal processing. But with parts of the system that connect and disconnect in a unpredictable fashion, the usual dataflow models does not work. We want to show how to improve a deterministic dataflow model (mostly CSDF) with data management which retains the deterministic properties of the base modelbut without the constraints of a static (non dynamic) system.",
+          time:""
+          }
         }
       // {
       //   name: "Steve Jobs",
