@@ -180,7 +180,22 @@ module.exports = {
           title:"A Model of Computation for highly parallel and dynamic system",
           description:"Todays challenges in real-time systems including sensor networks is that they have massive scale with high parallelism level, and at the same time they can be highly dynamic, with parts that are intermittently connected to a core system. For fixed (non dynamic) systems, dataflow paradigms works reasonably well, especially for signal processing. But with parts of the system that connect and disconnect in a unpredictable fashion, the usual dataflow models does not work. We want to show how to improve a deterministic dataflow model (mostly CSDF) with data management which retains the deterministic properties of the base modelbut without the constraints of a static (non dynamic) system.",
           time:""
-          }
+        }
+      },
+        {
+          name:"Florent Arrignon",
+          photo:"",
+          bio:"MAD-Environnement  is  a  young  innovative  company  based  in  Southern France.  Its  activities  encompass  data  mining,  modelling  and  risk analysis. MAD-Environnement  brings  innovative  and  controlled solutions  to  many  segments  and  activities,  such  as  environmental  and  health  services,  food  processing,  or  shipbuilding  industries. MAD-Environnement  provides  its  skills  via  three  operation  modes:  i) Mathematical and Risk expertise and training, ii) Model building and iii)Software development.",
+          company:"MAD Environnement",
+          link:{
+            href:"http://mad-environnement.com/",
+            text:"Web site"
+          },
+          presentation:{
+          title:"Risque  et  réseaux  de  capteurs :  potentiel  d’application  de la méthodologie d’Analyse Globale des Risques",
+          description:"Les  réseaux  de  capteurs  sont  des  systèmes  complexes  de par  la  structure  des  éléments  les  constituant,  leur  architecture de  déploiement  et  leur  généricité  d’applications.  Du  fait  de  cette complexité,  un  réseau  de  capteurs  est  exposé  à  de  nombreux  risques de  différentes  natures  (techniques,  environnementaux,  humains, économiques…)  et  à  différents  stades  de  vie  du  réseau  (conception, déploiement,  fonctionnement,  démantèlement…). Pour  obtenir  une vision  globale  des  risques  auxquels  est  exposé  ce  système,  il  est important  d’éviter  de  les  traiter  par  des  disciplines  cloisonnées et  des  outils  trop  spécifiques. L’Analyse  Globale  des  Risques  est une méthode qui permet de répondre à cette contrainte, conformément à  la  norme  ISO  31000  de  management  des  risques.  Par  un  processus invariant  et  indépendant  du  type  de  système  étudié,  elle  permet, à  l’échelle  globale  du  système,  i)  de  générer  la  cartographie de  l’exposition  aux  dangers  pour  chacun  des  éléments  du  système, ii)  de  déterminer  les  échelles  d’évaluation  et  le  référentiel d’acceptabilité  du  risque,  iii)  de  hiérarchiser  les  scénarios  à risques  et  iv)  de  fournir  un  plan  de  management  des  risques.  Le potentiel  d’application  de  cette  méthode  aux  réseaux  de  capteurs est  présenté  par  le  biais  d’illustrations  issues  d’applications  sur d’autres systèmes complexes et par la spécification des besoins pour documenter une telle analyse.",
+          time:""
+        }
         }
       // {
       //   name: "Steve Jobs",
