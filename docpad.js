@@ -64,7 +64,7 @@ module.exports = {
     schedule: [
     {
       name: "Accueil - Café",
-      time: "3 Juin, 14h00-14h15"
+      time: "3 Juin, 13h45-14h30"
     },
       {
         name: "François Beauducel",
@@ -78,7 +78,7 @@ module.exports = {
         presentation: {
           title: "Le SI WEBOBS: un ensemble d’outils intégrés de gestion pour les observatoires telluriques",
           description: "Les observatoires volcanologiques et sismologiques doivent assurer une double mission de collecte de données pluridisciplinaires à des fins de recherche et une mission de surveillance temps-réel et d'alerte aux autorités. Ces objectifs entrainent la gestion de réseaux de capteurs très variés associés à des données extrêmement hétérogènes (paramètres physico-chimique, échantillonnages manuel/automatique, fréquence et formats d'acquisition, métadonnées ...). Le système WEBOBS, développé depuis 2001 et implanté dans plusieurs observatoires opérationnels, apporte une solution intégrée et effective à ces problématiques.",
-          time: "3 Juin, 14h15-15h"
+          time: "3 Juin, 14h30-15h15"
         }
       },
       {
@@ -93,7 +93,7 @@ module.exports = {
         presentation: {
           title: "High resolution U.A.V. thermal imagery for the study of pest dynamics in the tropical Andes",
           description: "Les drones sont de nouveaux outils très prometteurs pour la recherche. Equipés de tous types de capteurs, volant bas et lentement, ils permettent l’acquisition  rapide, bon marché et répétable de données spatialisées à très hautes résolutions. Cette présentation exposera les travaux effectués dans les Andes équatoriennes pour la caractérisation des patrons spatio-temporels d'hétérogénéité thermique des agrosystèmes à l’échelle de l’insecte ravageur. L’utilisation de caméra thermique embarquée sur un drone combinée à de nombreux capteurs au sol a permis l’obtention d’orthophotos visuelles et infrarouges de hautes résolutions (1,3 cm/px et 5 cm/px respectivement) et la modélisation du microclimat des agrosystèmes (air, plante et sol). Ces données analysées dans des SIG mettent en évidence l’effet significatif du microclimat sur la présence et distribution des insectes ravageurs dans les agro-systèmes andins.",
-          time: "3 Juin, 15h-15h45"
+          time: "3 Juin, 15h15-16h00"
         }
       },
       {
@@ -108,13 +108,13 @@ module.exports = {
         presentation: {
           title: "Réseaux de capteurs pour la surveillance, d'une démarche adhoc vers une approche standardisée",
           description: "Les réseaux de capteurs sont des technologies très prometteuses pour un grand nombre d'applications à fort impact sociétal et environnemental. De nombreuses infrastructures expérimentales ont été mises en place, souvent de manière adhoc en développant les outils, les protocoles et les environnements logiciels adéquats. Depuis quelques années, nous assistons à l'émergence d'un besoin générique d'adresser et de gérer un grand nombre d'objets communicants (dont les réseaux de capteurs) pour collecter et traiter de grandes masses/flux de données. Dans cette présentation, nous montrerons comment passer d'une gestion adhoc vers une gestion plus générique et standardisé de telles infrastructures pour permettre un connectivité de bout-en-bout avec le réseau Internet et bénéficier de toute la puissance de traitement des nouvelles infrastructures de type cloud.",
-          time: "3 Juin, 15h45-16h30"
+          time: "3 Juin, 16h00-16h45"
         }
       },
       {
         name: "Mohamed Babram",
-        photo: "themes/ird/img/speaker.png",
-        bio: "",
+        photo: "themes/ird/img/Mohamed-babram.jpg",
+        bio: "Titulaire d’un Diplôme des Etudes Supérieures (DES) en 1996 et une Thèse d’Etat en 2007, en Mathématiques Appliquées, Mohamed Ait Babram exerce en tant que  Professeur de l’Enseignement Supérieur au département de mathématiques à la Faculté des Sciences et Techniques de Marrakech depuis 1997. Il est membre du Laboratoire des Mathématiques et Dynamique de Population de l’Université Cadi Ayyad (LMDP) et l’Unité de Modélisation Mathématique et Informatique de Systèmes Complexes (UMMISCO)  qui est placée sous la double tutelle IRD-UPMC. Son expérience dans la modélisation mathématique et les outils d’analyse de données et Data mining, l’a amené vers des problématiques liées à la mobilité urbaine et la modélisation multi agents.",
         company: "Université Cadi Ayyad, Maroc",
         link: {
           href: "",
@@ -122,18 +122,22 @@ module.exports = {
         },
         presentation: {
           title: "Une approche capteurs pour le contrôle et l'optimisation du trafic urbain",
-          description: "",
-          time: "3 Juin, 16h30-16h50"
+          description: "Dans cette intervention, nous nous intéresserons au problème lié au contrôle et optimisation du trafic urbain dans la ville de Marrakech. Notre approche est principalement basée sur la  modélisation multi agents comme outil de simulation de la mobilité dans le réseau routier  de la ville et les capteurs comme instrument de collecte de données liées à l'environnement  du trafic, notamment les flux et les émissions de gaz à effet de serre. Les cas d'études que  nous convoiterons exploré sont particulièrement la conception d'un système adaptatif des  feux signalétiques en vue d'une optimisation de la circulation au niveau des carrefours et l'optimisation des programmes des transports en commun en vue d'une réduction des émissions de dioxyde da carbone. Les algorithmes d'apprentissage statistiques et automatiques, notamment les réseaux de neurones et le Q-Learning, seront d'une utilité majeure dans l'obtention des états d’équilibre optimal.",
+          time: "3 Juin, 16h45-17h00"
         }
       },
       {
-        name: "BBQ & Démonstration de drone",
+        name: "Réunion du groupe CAPFLEXITE (Capteurs et Systèmes Complexes)",
+        time: "3 Juin, 17h00-19h00"
+      },
+      {
+        name: "BBQ & Initiation au pilotage de drone",
         time: "3 Juin, 19h00-21h00"
       },
         {
           name: "Florent Arrignon",
           photo:"themes/ird/img/florent_arrignon.jpg",
-          bio: "MAD-Environnement is a young innovative company based in Southern France. Its activities encompass data mining, modelling and risk analysis. MAD-Environnement brings innovative and controlled solutions to many segments and activities, such as environmental and health services, food processing, or shipbuilding industries. MAD-Environnement provides its skills via three operation modes: i) Mathematical and Risk expertise and training, ii) Model building and iii) Software development.",
+          bio: "MAD-Environnement is a young innovative company based in Southern France. Its activities encompass data mining, modelling and risk analysis. MAD-Environnement brings innovative and controlled solutions to many segments and activities, such as environmental and health services, food processing, or shipbuilding industries. MAD-Environnement provides its skills via three operation modes: i) Mathematical and Risk expertise and training, ii) Model building and iii) Software development.",
           company: "MAD-Environnement",
           link:{
             href: "http://mad-environnement.com/",
@@ -165,7 +169,7 @@ module.exports = {
   }
 },
 {
-  name: "Session Démonstration",
+  name: "Session Démonstration - EAR-IT: streaming audio pour la surveillance acoustique dans les smart cities - Cong Duc Pham (LIUPPA)",
   time: "Mercredi 4 Juin, 10h45-11h30"
 },
       {
@@ -207,7 +211,7 @@ module.exports = {
           time: "4 Juin, 14h45-15h00"
         },
         {
-          name: "Session Démonstration",
+          name: "Session Démonstration - QuickMap, un logiciel interactif pour afficher et saisir des informations géographiques, sur fond de cartes géoréférencées (OpenStreetMap, GoogleMap) - Pierre-Yves Lucas (UBO)",
           time: "4 Juin, 15h00-15h45"
         },
         {
